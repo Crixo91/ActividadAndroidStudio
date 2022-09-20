@@ -1,2 +1,2 @@
 # ActividadAndroidStudio
-Las porimeras 5 activades realizadas para Programacion Android
+Las primeras 5 activades realizadas para Programacion Android
